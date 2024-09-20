@@ -54,7 +54,7 @@ To run the project locally, follow these steps:
 
 - Open `index.html` in any modern browser to launch the Indore Plants online store.
 - Explore various plant categories, view product details, and enjoy a seamless browsing experience on any device.
-- To experience the live demo, visit: [Your Live Demo URL]
+- To experience the live demo, visit: [IndorePlants](https://vinay-malyala-indore-plants.netlify.app/)
 
 ## Contributing
 
