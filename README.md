@@ -58,7 +58,7 @@ To run the project locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit issues, feature requests, or fork the repository and submit pull requests. For more details, refer to the [issues page](#).
+Contributions are welcome! Please feel free to submit issues, feature requests, or fork the repository and submit pull requests. 
 
 ## License
 
